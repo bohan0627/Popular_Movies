@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Udacity_Popular_Movies</string>
+    <string name="title_movie_list">Udacity_Popular Movies</string>
+    <string name="title_movie_detail">Movie Details</string>
+    <string name="user_rating_movie">TMDb score: %1$s/10</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="title_for_empty_view">Sorry!</string>
+    <string name="text_for_empty_view">The Internet is not working now!</string>
+    <string name="release_date_missing">Release date is unknown</string>
+    <string name="sort_by">Sort By</string>
+    <string name="add_to_favorites">Mark as favorite</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="watch_trailers">Watch trailer</string>
+    <string name="favorites">Favorites</string>
+    <string name="my_favorites">My Favorites</string>
+    <string name="text_for_empty_favorites">Sorry! No Favorites Now!</string>
+    <string name="title_for_empty_favorites">Please Add Here!</string>
+    <string name="text_for_overview">Overview:</string>
+    <string name="text_for_trailers">Trailers:</string>
+</resources>
