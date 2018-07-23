@@ -37,7 +37,9 @@ End with an example of getting some data out of the system or using it for a lit
 Explain how to run the automated tests for this system
 
 ## Screens
+
 ![screen](../master/screens/top_rated.png)
+<img width="40%" src="../master/screens/top_rated.png" />
 ![screen](../master/screens/favorite.png)
 ![screen](../master/screens/details.png)
 
