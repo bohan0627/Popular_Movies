@@ -6,7 +6,7 @@ It displays the related movie details whenever clicking on one movie poster. It 
 ## Features
 Within this app, you could
 * Sort and display movies based on "top rated" or "most popular" 
-* Watch movie rating, reviews and trailors
+* Watch movie rating, reviews and trailers
 * Add movie as favorite
 
 ## Screens
