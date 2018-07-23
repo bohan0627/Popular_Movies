@@ -2,6 +2,13 @@
 
 This is the stage two of Popular Movies Design of Udacity Android Developer Nanodegree. fetch movies data from TMDb API, store users' favorite in local database.
 
+## Screens
+<div>
+ <img width="40%" src="../screens/top_rated.jpg" />
+ <img width="40%" src="../screens/favorite.jpg" />
+ </div>
+<img width="40%" src="../screens/details.png" />
+
 ## Getting Started
 
  1. Apply for your own API key in TMDb website: https://www.themoviedb.org/account/signup?language=en-EN. 
