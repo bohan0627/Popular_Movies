@@ -38,8 +38,8 @@ Explain how to run the automated tests for this system
 
 ## Screens
 <div>
-<img width="40%" src="../master/screens/top_rated.png" />
-<img width="40%" src="../master/screens/favorite.png" />
+<img width="40%" src="../master/screens/top_rated.jpg" />
+<img width="40%" src="../master/screens/favorite.jpg" />
    </div>
 <img width="40%" src="../master/screens/details.png" />
 
