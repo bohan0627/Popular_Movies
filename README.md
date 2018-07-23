@@ -23,9 +23,7 @@ This is the stage two of Popular Movies Design of Udacity Android Developer Nano
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Bo Han** 
 
 ## License
 
