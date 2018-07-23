@@ -4,10 +4,10 @@ This is the stage two of Popular Movies Design of Udacity Android Developer Nano
 
 ## Screens
 <div>
- <img width="40%" src="../screens/top_rated.jpg" />
- <img width="40%" src="../screens/favorite.jpg" />
+ <img width="40%" src="../master/screens/top_rated.jpg" />
+ <img width="40%" src="../master/screens/favorite.jpg" />
  </div>
-<img width="40%" src="../screens/details.png" />
+<img width="40%" src="../master/screens/details.png" />
 
 ## Getting Started
 
