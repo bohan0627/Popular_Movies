@@ -1,7 +1,13 @@
 # Popular_Movies
 
-This is the stage two implementation of Popular Movies Design of Udacity Android Developer Nanodegree. This app fetches movies data from TMDb API, sort data besed on top_rated and most poplaur and also store users' favorite in local database.
+This is the stage two implementation of Popular Movies Design of Udacity Android Developer Nanodegree. This app fetches movies data from TMDb API, sort data besed on "top rated" and "most popular" and also store users' favorite in local database.
 It displays the related movie details whenever clicking on one movie poster. It launches the overview, reviews and trailers of each movie and allows user to watch the trailers.
+
+## Features
+Within this app, you could
+* Sort and display movies based on "top rated" or "most popular" 
+* Watch movie rating, reviews and trailors
+* Add movie as favorite
 
 ## Screens
 <div>
