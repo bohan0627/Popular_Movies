@@ -5,9 +5,10 @@ It displays the related movie details whenever clicking on one movie poster. It 
 
 ## Features
 Within this app, you could
+* Scan the latest movie information
 * Sort and display movies based on "top rated" or "most popular" 
 * Watch movie rating, reviews and trailers
-* Add movie as favorite
+* Add movie to user's favorite 
 
 ## Screens
 <div>
